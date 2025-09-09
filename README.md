@@ -28,7 +28,3 @@ Program dibuat untuk memenuhi tugas pemrograman dasar dengan ketentuan:
 
 5. **Keluar**  
    Menutup program.
-
-
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
