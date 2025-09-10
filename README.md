@@ -38,5 +38,3 @@ Setiap kendaraan memiliki properti berikut:
 
 ---
 
-##  Contoh Tampilan (Console)
-
